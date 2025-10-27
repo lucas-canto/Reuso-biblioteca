@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+# 🔁 Módulo HTTP Reutilizável
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## 📦 Biblioteca utilizada
+**requests (v2.32.3)**
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 🧰 Instalação
+```bash
+pip install requests
