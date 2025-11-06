@@ -12,5 +12,5 @@ pip install requests
 ## 🧪 Testes
 Para executar os testes automatizados, utilize o seguinte comando:
 ```bash
-python -m unittest test_http_module.py
+python -m unittest discover
 ```
